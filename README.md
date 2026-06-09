@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Go, React, MongoDB, System Design**
 - 🚀 Building projects using **Go (Gin), GORM, MySQL, MongoDB**
 - 📚 Exploring Data Science and Cloud Technologies
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **pradnyalate27@gmail.com**
 
 ---
 
