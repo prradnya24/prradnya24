@@ -1,80 +1,55 @@
 <h1 align="center">Hi 👋, I'm Pradnya Late</h1>
 
-<h3 align="center">MCA Student | Go Backend Developer | Backend Enthusiast</h3>
+<h3 align="center">MCA Student | MERN Stack Developer | Backend Enthusiast</h3>
 
 <p align="center">
-  Passionate about building scalable web applications, REST APIs, and continuously learning modern backend technologies.
+Passionate about building full-stack web applications, REST APIs, and continuously improving my development skills.
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 MCA Student
-- 💻 Interested in Backend Development
-- 🌱 Currently learning **Go, React, MongoDB, System Design**
-- 🚀 Building projects using **Go (Gin), GORM, MySQL, MongoDB**
-- 📚 Exploring Data Science and Cloud Technologies
-- 📫 Reach me at: **pradnyalate27@gmail.com**
+- 💻 MERN Stack Developer
+- 🌱 Currently learning Go and System Design
+- 🔧 Strong foundation in Java, Python, JavaScript, and Databases
+- 🚀 Interested in Backend Development and Scalable Applications
+- 📚 Exploring Data Science concepts alongside web development
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Tech Stack
+
+### Languages
+Java • Python • JavaScript • SQL
+
+### Frontend
+React.js • HTML5 • CSS3 • Bootstrap
+
+### Backend
+Node.js • Express.js • REST APIs • Go (Learning)
+
+### Databases
+MongoDB • MySQL
+
+### Tools
+Git • GitHub • VS Code • Postman
 
 <p align="left">
-<a href="linkedin.com/in/pradnya-late-career" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,go,html,css,bootstrap,git,github,vscode,postman" />
 </p>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prradnya24&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prradnya24&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prradnya24&theme=tokyonight)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🎯 Career Goal
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=go,react,nodejs,mongodb,mysql,python,java,git,github,vscode,html,css,javascript" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prradnya24&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prradnya24&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=prradnya24&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### Quiz Platform
-- Online quiz system with authentication and scoring.
-
-#### Recipe Finder
-- Search and discover recipes with a PHP backend.
-
-#### Go REST API
-- Backend API using Go, Gin, GORM, and MySQL.
-
-#### AI Knowledge Base
-- Upload PDFs and ask questions using AI.
-
----
-
-### 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=prradnya24&color=blue)
-
----
-
-### ✨ Quote
-
-> "Consistency beats talent when talent doesn't work consistently."
+Aspiring Full Stack Developer with a strong interest in backend engineering, cloud technologies, and scalable web applications.
